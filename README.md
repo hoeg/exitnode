@@ -1,5 +1,5 @@
 # Exitnode Plugin (v1.0 alpha)
-Author: ****
+Author: hoeg
 
 _Quickly identify the location where functions return or exit._
 
@@ -17,14 +17,12 @@ This plugin requires the following minimum version of Binary Ninja:
 
 ## Required Dependencies
 
-The following dependencies are required for this plugin:
-
- * pip - array, of, pip, dependencies
- * apt - apt, packages
-
+There are now external dependencies for this project
 
 ## License
 
 This plugin is released under a [MIT](LICENSE) license.
 
+## Installation
 
+Clone to ``~/.binaryninja/plugin``
