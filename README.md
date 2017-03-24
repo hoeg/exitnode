@@ -17,7 +17,7 @@ This plugin requires the following minimum version of Binary Ninja:
 
 ## Required Dependencies
 
-There are now external dependencies for this project
+There are no external dependencies for this project
 
 ## License
 
